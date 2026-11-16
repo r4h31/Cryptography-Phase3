@@ -1,6 +1,6 @@
 # Cryptography-Phase3
 ## Output:
-'''
+```
 Percobaan 1
 Alice kirim pesan, penyerang membaca: halo bob, ini rahasia
 
@@ -15,4 +15,4 @@ Kunci sesi Alice dan Bob sama? True
 Percobaan 3
 Bob membaca: halo bob, ini rahasia
 Satu bit diubah di jalan, hasil dekripsi: None
-'''
+```
